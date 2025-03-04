@@ -1,2 +1,3 @@
 Első commit (A1-->master)
 Második commit (B2-->master)
+Harmadik commit (A3-->fejlesztes)
